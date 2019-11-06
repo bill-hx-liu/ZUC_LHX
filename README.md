@@ -10,4 +10,4 @@ ZUC算法的密码分析
 
 2 实现源代码文件：ZUC_lhx.py(https://github.com/bill-hx-liu/ZUC_LHX/blob/master/ZUC_lhx.py)
 
-3 output目录是输出的差分分析表和线性逼近表，共有四个excel文件(https://github.com/bill-hx-liu/ZUC_LHX/tree/master/output)
+3 output目录是实验结果：输出的差分分析表和线性逼近表，四个xlsx文件(https://github.com/bill-hx-liu/ZUC_LHX/tree/master/output)
